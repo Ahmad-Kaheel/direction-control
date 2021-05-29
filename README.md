@@ -7,3 +7,5 @@ This project is made by "php" and it`s connected to a database to control a robo
 <img src="Automatic_control/screenShot.PNG"> 
 
 ![](Manual%20control/screenshot.jpg)
+
+![](Screenshot%202021-05-29%20181355.jpg)
